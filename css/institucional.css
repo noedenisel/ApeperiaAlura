@@ -1,3 +1,4 @@
+/* ! Bug con el tamaño de la img y el video */
 .institucional {
     display: flex;
     flex-direction: column;
@@ -69,5 +70,15 @@
 
     .institucional__contacto-email {
         display: block;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .institucional__contacto-email{
+        display: inline-block
+    }
+    .institucional__video{
+        width: 100%
     }
 }
