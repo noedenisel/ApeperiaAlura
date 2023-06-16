@@ -36,7 +36,6 @@
     .llamada {
         background-image: url(../img/bg-intro.jpg);
         background-size: cover;
-
         padding-top: 8.25rem;
     }
 
@@ -47,12 +46,7 @@
 }
 
 @media screen and  (min-width:768px){/* !No esta aplicando */
-    /* .llamada{
-        background-color: pink;
-    } */
-
     .llanada__texto{
         max-width: 600px;
-
     }
 }
