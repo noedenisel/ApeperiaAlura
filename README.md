@@ -12,4 +12,4 @@ En este curso, se abordaron los siguientes aspectos:
 4. Semántica HTML
 5. Evolución: Del mobile al desktop
 
-Deploy: https://noedenisel.github.io/ApperiaAlura/
+Deploy: https://noedenisel.github.io/ApeperiaAlura/
